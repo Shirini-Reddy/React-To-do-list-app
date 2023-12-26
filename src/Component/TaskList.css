@@ -1,0 +1,23 @@
+header{
+    text-align:center;
+    align-items: center;
+}
+
+input{
+    width: 25%;
+    height: 25px;
+}
+
+button{
+    margin-left:5%;
+    width:10%;
+} 
+label{
+    margin-right:50% ;
+}
+
+.completed {
+    text-decoration: line-through; /* Add a line-through effect */
+    color: #888; /* Change color for completed items */
+  }
+  
